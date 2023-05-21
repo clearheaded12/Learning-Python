@@ -82,5 +82,4 @@ elif choice == '4':
 else:
     print("Ошибка: некорректный выбор операции")
 
-if result is not None:
-    print("Результат:", result)
+    print('Second commit')
