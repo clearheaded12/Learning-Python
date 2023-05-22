@@ -15,7 +15,6 @@ len()       sum()       input()
 round()     min()       bool()
 int()
 
-
 ///////////// 1:03 Функция dir и атрибуты объектов
 
 name = 'Amir'
@@ -37,5 +36,6 @@ print(name.capitalize())
 
 """
 
-print('fourth commit')
-print()
+name = input("Введите ваше имя: ")
+print("Привет, " + name + "! Добро пожаловать в мир Python!")
+
